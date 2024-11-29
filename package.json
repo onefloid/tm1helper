@@ -34,7 +34,8 @@
 					"tm1 process"
 				],
 				"extensions": [
-					".pro"
+					".pro",
+					".ti"
 				],
 				"configuration": "./language-configuration.json"
 			}
